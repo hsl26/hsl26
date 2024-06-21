@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://ember-divan-1dd.notion.site/to-be-SW-Engineer-f321a85a2b8543efada38d78beff9ae5?pvs=4" target="_blank"><img src="https://img.shields.io/badge/notion-FFFFFF?style=flat-square&logo=Notion&logoColor=000000"/></a>
+<a href="https://ember-divan-1dd.notion.site/to-be-SW-Engineer-f321a85a2b8543efada38d78beff9ae5?pvs=4" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=Notion&logoColor=FFFFFF" style="width:100px;height:100px;"/></a>
 
 ### Languages & Tools
 
