@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=Notion&logoColor=000000"/></a>
 
 ### Languages & Tools
 
@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react)](https://skillicons.dev)
 
 <!--[![My Skills](https://skillicons.dev/icons?i=anaconda,git,matlab,pycharm,vscode)](https://skillicons.dev)-->
+
