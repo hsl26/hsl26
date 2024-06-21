@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,pytorch,tensorflow)](https://skillicons.dev)
 <br/>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react&theme=light)](https://skillicons.dev)
+<br/>
+[![My Skills](https://skillicons.dev/icons?i=anaconda,git,matlab,pycharm,vscode&theme=light)](https://skillicons.dev)
