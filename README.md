@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=html,css&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino, matlab, c, cpp,py , pytorch,tensorflow,  html,css, js, ts, react, splite&theme=light)](https://skillicons.dev)
