@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Languages & Tools
+
+[![My Skills](https://skillicons.dev/icons?i=c, cpp,py , pytorch,tensorflow&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=arduino, matlab, c, cpp,py , pytorch,tensorflow,  html,css, js, ts, react, sqlite&theme=light)](https://skillicons.dev)
