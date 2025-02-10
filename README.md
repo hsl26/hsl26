@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 -->
 ### Languages & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,pytorch,tensorflow)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,pytorch,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
 
 <!--[![My Skills](https://skillicons.dev/icons?i=anaconda,git,matlab,pycharm,vscode)](https://skillicons.dev)-->
 
