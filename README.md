@@ -22,7 +22,7 @@ Here are some ideas to get you started:
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=hsl26&show_icons=true&theme=transparent&hide="/>
 
   ### HyunShu
-   <a href="https://github.com/hsl26"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhsl26&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> 
+<a href="https://github.com/hsl26"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhsl26&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> 
 <a href="https://solved.ac/hyounshu"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=hyounshu" alt="Solved.ac 프로필" /></a>
 <a href="https://hyounshu.tistory.com"><img src="https://img.shields.io/badge/Tistory Blog-000000?style=badge&logo=Tistory&logoColor=white"/></a> 
 
@@ -56,6 +56,7 @@ Here are some ideas to get you started:
       <span>
           <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
           <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
+          <img src="https://img.shields.io/badge/kotlin-7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white" />
           <img src="https://img.shields.io/badge/c-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=black" />
           <img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />
       </span>
@@ -64,6 +65,7 @@ Here are some ideas to get you started:
           <img src="https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
           <img src="https://img.shields.io/badge/pycharm-%23000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white" />
           <img src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=for-the-badge&logo=eclipse%20ide&logoColor=white" />
+          <img src ="https://img.shields.io/badge/androidstudio-%3DDC84.svg?&style=for-the-badge&logo=android%20studio&logoColor=white"/>
       </span>
   </div>
 </div>
